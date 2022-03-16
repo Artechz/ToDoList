@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="toast_task_created">Task created!</string>
+    <string name="action_addTask">Add a new task</string>
+    <string name="input_taskName">What\'s the new task?</string>
+    <string name="button_addTask">ADD TASK</string>
 </resources>
