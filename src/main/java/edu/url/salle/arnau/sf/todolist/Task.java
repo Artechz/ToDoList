@@ -12,6 +12,12 @@ public class Task {
         dtDate = new Date();
     }
 
+    public Task(String title, Date date, boolean completed) {
+        sTitle = title;
+        dtDate = date;
+        bCompleted = completed;
+    }
+
     public String getTitle() {
         return sTitle;
     }
